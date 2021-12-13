@@ -1,5 +1,5 @@
 ## 👋 Hello world, I'm Andrew!
-💭I'm addicted to a tool that no one can take away from us: the knowledge
+💭 I'm addicted to a tool that no one can take away from us: the knowledge
 ##
 <div align="center">
   <a href="https://github.com/AndrewMBarros">
