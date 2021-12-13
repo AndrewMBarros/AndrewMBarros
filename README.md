@@ -1,5 +1,5 @@
 ## 👋 Hello world, I'm Andrew!
-
+💭I'm addicted to a tool that no one can take away from us: the knowledge
 <div align="center">
   <a href="https://github.com/AndrewMBarros">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=andrewmbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
