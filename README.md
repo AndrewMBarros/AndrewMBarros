@@ -11,8 +11,6 @@
 <div style="display: inline_block">
   <img align="center" alt="Andrew-Git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Andrew-Linux" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Andrew-VsCode" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Andrew-Gimp" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 </div>
 
 ##
