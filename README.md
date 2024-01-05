@@ -1,5 +1,17 @@
 ## 👋Olá mundo, eu sou o Andrew!
-💭 
+
+💭 Amante do conhecimento, possui experiência tanto como acadêmica quanto empresarial:
+      Na primeira via, realizou estágio na Companhia Estadual de Águas e Esgotos do Rio de Janeiro onde autou como desenvolvedor na raspagem de processos da Companhia através do sistema SEI (Sistema Eletrônico de Informações), utilizando a linguagem de programação Python.
+        Enquanto na segunda mão, atua na Iniciação Científica no projeto de Modelagem Matemática Aplicada ao Ensino Básico até o atual momento. 
+
+⚠️ Informações Adicionais:
+      ● Apresentações de trabalhos acadêmicos: XLI ( 2022) e XLII (2023) do Congresso Nacional de Matemática Aplicada e Computacional organizado
+pela Sociedade Brasileira de Matemática Aplicada e Computacional 
+      ● Publicações: Proceeding Series of the Brazilian Society of Computational and Applied Mathematics v. 9 n. 1 (2022): CNMAC 2022 "Divulgação científica em contexto de Inteligência Artificial através do Instagram" e, também na mesma revista, mas no v. 10 n. 1 (2023): CNMAC 2023, "Divulgação Científica e Novas Funcionalidades Para Análise de Dados das Redes Sociais" 
+
+🎖️ Prêmio:
+    ● Menção Honrosa na V Maratona de Matemática da Semana do IME - UERJ
+
 <div align="center">
   <a href="https://github.com/AndrewMBarros">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=andrewmbarros&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
