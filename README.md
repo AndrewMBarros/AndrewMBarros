@@ -35,7 +35,7 @@ Além disso, sou **premiado em olimpíadas de matemática** e **publicado em con
   
   * ["Divulgação Científica e Novas Funcionalidades Para Análise de Dados das Redes Sociais"](https://proceedings.sbmac.org.br/sbmac/article/view/4348/4409)
   
-  * ["Divulgação científica em contexto de Inteligência Artificial através do Instagram"](https://proceedings.sbmac.org.br/sbmac/article/view/4348/4409)
+  * ["Divulgação científica em contexto de Inteligência Artificial através do Instagram"](https://proceedings.sbmac.org.br/sbmac/article/view/4012/4063)
 
 ---
 
