@@ -75,6 +75,10 @@ Além disso, sou **premiado em olimpíadas de matemática** e **publicado em con
 Automatização de extração de dados de **faturas em PDF** utilizando **UiPath Document Understanding**. O robô processa arquivos PDF armazenados em uma pasta específica e extrai dados como **Invoice Number**, **Billed To**, **Due Date** e **Amount Due**, armazenando-os em **Excel**.
 Tecnologias: **UiPath Studio**, **Document Understanding**, **OCR**, **Microsoft Excel**.
 
+
+### **[Travel App – Flutter](https://github.com/AndrewMBarros/travel-app)**
+
+Plataforma de Solicitação de Viagens Corporativas Aplicativo **Flutter** desenvolvido para gerenciamento de solicitações de viagens, integração com webhooks via **N8N/Sheets**- e fluxo de aprovação/rejeição de solicitações.
 ---
 
 
