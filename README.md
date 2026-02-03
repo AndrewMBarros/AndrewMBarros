@@ -79,6 +79,7 @@ Tecnologias: **UiPath Studio**, **Document Understanding**, **OCR**, **Microsoft
 ### **[Travel App – Flutter](https://github.com/AndrewMBarros/travel-app)**
 
 Plataforma de Solicitação de Viagens Corporativas Aplicativo **Flutter** desenvolvido para gerenciamento de solicitações de viagens, integração com webhooks via **N8N/Sheets**- e fluxo de aprovação/rejeição de solicitações.
+
 ---
 
 
