@@ -29,7 +29,7 @@ Atualmente curso Ciência da Computação na UERJ e estou sempre em busca de nov
 
 ## 🚀 Projetos
 
-**[Ecommerce Digital](https://github.com/AndrewMBarros)** — REST API de e-commerce em C#/ASP.NET Core, com arquitetura em camadas (Controllers, DTOs, Validators, Services, Repositories) e banco de dados SQL (Entity Framework, MySQL).
+**[Ecommerce Digital](https://github.com/AndrewMBarros/API-PRODUTOS)** — REST API de e-commerce em C#/ASP.NET Core, com arquitetura em camadas (Controllers, DTOs, Validators, Services, Repositories) e banco de dados SQL (Entity Framework, MySQL).
 
 **[ExpoHub Invoice PDF Automation – UiPath](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation)** — Automatização de extração de dados de faturas em PDF utilizando UiPath Document Understanding. O robô processa arquivos PDF armazenados em uma pasta específica e extrai dados como Invoice Number, Billed To, Due Date e Amount Due, armazenando-os em Excel. Tecnologias: UiPath Studio, Document Understanding, OCR, Microsoft Excel.
 
@@ -47,8 +47,8 @@ Atualmente curso Ciência da Computação na UERJ e estou sempre em busca de nov
 
 ## 🏅 Certificações
 
-* Yeastar Certified Security Specialist
-* Yeastar Certified Integration Specialist
+* [Yeastar Certified Security Specialist](https://github.com/AndrewMBarros/AndrewMBarros/blob/main/YSCSS%20-%20Yeastar%20Certified%20Security%20Specialist.png)
+* [Yeastar Certified Integration Specialist](https://github.com/AndrewMBarros/AndrewMBarros/blob/main/YSCIS%20-%20Yeastar%20Certified%20Integration%20Specialist.png)
 * [UiPath Academy – Automation Developer Associate (Training)](https://credentials.uipath.com/d9322f5f-dc93-44f3-a86f-759902dd1e3d#acc.AOLvPcSE)
 
 ## 🛠 Tecnologias que Utilizo
