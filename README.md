@@ -46,7 +46,7 @@ Desenvolvedor Backend com foco em **Python**. Gosto de transformar tarefas manua
 |---|---|---|
 | **NOVA** *(em breve)* | Triagem automática da caixa de suporte: lê e-mails (IMAP/Microsoft Graph), valida CNPJ/CPF, identifica o cliente, responde e escala casos para a equipe. | Python · FastAPI · SQLAlchemy · pytest |
 | **Radar DO** *(em breve)* | Monitora diariamente o Diário Oficial do RJ e registra só as publicações novas de cada contrato (atos e termos aditivos). | Python · Selenium · CSV |
-| **[imigra](https://github.com/AndrewMBarros/imigra)** | RPA desktop que migra PABX em nuvem de 3CX para Yeastar, com pipeline ETL. Feito em 2 semanas e usado em produção por 4 meses. | Python · Selenium · pandas · customtkinter |
+| **[imigra](https://github.com/AndrewMBarros/imigra)** | RPA desktop que migra PABX em nuvem de 3CX para Yeastar, com pipeline ETL | Python · Selenium · pandas · customtkinter |
 | **[ADayInTheLife](https://github.com/AndrewMBarros/ADayInTheLife)** | Bot de scraping diário que envia fatos históricos dos Beatles ao Telegram via GitHub Actions. | Python · GitHub Actions |
 | **[API de Produtos](https://github.com/AndrewMBarros/API-PRODUTOS)** | API REST com CRUD completo de produtos e documentação Swagger. | C# · ASP.NET Core · Swagger |
 | **[Invoice PDF Automation](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation)** | Robô que extrai dados de faturas em PDF (OCR) para Excel. | UiPath · OCR |
