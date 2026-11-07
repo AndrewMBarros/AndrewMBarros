@@ -44,7 +44,7 @@ Desenvolvedor Backend com foco em **Python**. Gosto de transformar tarefas manua
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| **NOVA** *(em breve)* | Triagem automática da caixa de suporte: lê e-mails (IMAP/Microsoft Graph), valida CNPJ/CPF, identifica o cliente, responde e escala casos para a equipe. | Python · FastAPI · SQLAlchemy · pytest |
+| **[NOVA](https://github.com/AndrewMBarros/nova)** | Triagem automática da caixa de suporte: identifica o cliente (e-mail, CNPJ/CPF ou nome da empresa), pede o documento quando falta e monta o chamado para o ERP. | Python · FastAPI · SQLAlchemy · pytest · Docker · GitHub Actions |
 | **Radar DO** *(em breve)* | Monitora diariamente o Diário Oficial do RJ e registra só as publicações novas de cada contrato (atos e termos aditivos). | Python · Selenium · CSV |
 | **[imigra](https://github.com/AndrewMBarros/imigra)** | RPA desktop que migra PABX em nuvem de 3CX para Yeastar, com pipeline ETL | Python · Selenium · pandas · customtkinter |
 | **[ADayInTheLife](https://github.com/AndrewMBarros/ADayInTheLife)** | Bot de scraping diário que envia fatos históricos dos Beatles ao Telegram via GitHub Actions. | Python · GitHub Actions |
