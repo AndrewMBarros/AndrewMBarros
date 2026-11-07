@@ -2,68 +2,67 @@
 
 # Andrew Matheus
 
-**Desenvolvedor Backend Python** · APIs · Automação (RPA/ETL) · Integrações
+**Backend Software Engineer · Python · FastAPI · SQL · Selenium · C# · ASP.NET Core**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-andrewmbs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewmbs/)
-[![E-mail](https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrew-barros@hotmail.com)
-![Rio de Janeiro](https://img.shields.io/badge/Rio_de_Janeiro-RJ-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)
+[🇧🇷 Versão em Português](README.pt-BR.md)
 
 </div>
 
 ---
 
-### 👋 Sobre mim
+## 👋 About me
 
-Desenvolvedor Backend com foco em **Python**. Gosto de transformar tarefas manuais e repetitivas em software: APIs com **FastAPI**, automação de processos (**RPA/ETL**), web scraping e integração de sistemas, com bancos de dados SQL. Também trabalho com **C#/ASP.NET Core** (REST APIs e Worker Services). Cursando **Ciência da Computação na UERJ**.
+Backend developer focused on Python. I like turning manual, repetitive work into software: REST APIs with FastAPI, process automation (RPA/ETL), web scraping, and system integration — all backed by SQL databases. I also work with C#/ASP.NET Core (REST APIs and Worker Services). Currently pursuing a Computer Science degree at UERJ (Rio de Janeiro, Brazil). Open to remote opportunities.
 
-> 🇺🇸 Backend developer (Python, FastAPI, automation) based in Rio de Janeiro, Brazil. Open to remote opportunities.
+---
 
-### 🛠 Stack
+## 🛠 Stack
 
-**Principal**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Main**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Também uso**  
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=flat-square&logo=qlik&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Also use**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-### 🚀 Projetos em destaque
+---
 
-| Projeto | O que faz | Stack |
-|---|---|---|
-| **[NOVA](https://github.com/AndrewMBarros/nova)** | Triagem automática da caixa de suporte: identifica o cliente (e-mail, CNPJ/CPF ou nome da empresa), pede o documento quando falta e monta o chamado para o ERP. | Python · FastAPI · SQLAlchemy · pytest · Docker · GitHub Actions |
-| **Radar DO** *(em breve)* | Monitora diariamente o Diário Oficial do RJ e registra só as publicações novas de cada contrato (atos e termos aditivos). | Python · Selenium · CSV |
-| **[imigra](https://github.com/AndrewMBarros/imigra)** | RPA desktop que migra PABX em nuvem de 3CX para Yeastar, com pipeline ETL | Python · Selenium · pandas · customtkinter |
-| **[ADayInTheLife](https://github.com/AndrewMBarros/ADayInTheLife)** | Bot de scraping diário que envia fatos históricos dos Beatles ao Telegram via GitHub Actions. | Python · GitHub Actions |
-| **[API de Produtos](https://github.com/AndrewMBarros/API-PRODUTOS)** | API REST com CRUD completo de produtos e documentação Swagger. | C# · ASP.NET Core · Swagger |
-| **[Invoice PDF Automation](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation)** | Robô que extrai dados de faturas em PDF (OCR) para Excel. | UiPath · OCR |
+## 🚀 Featured projects
 
-### 💼 Experiência
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**NOVA**](https://github.com/AndrewMBarros/nova) | Automatic support-inbox triage: identifies the client (e-mail, CNPJ/CPF or company name), requests the document when missing, and assembles the ticket for the ERP. | Python · FastAPI · SQLAlchemy · pytest · Docker · GitHub Actions |
+| [**Radar DO**](https://github.com/AndrewMBarros/radar-do) *(coming soon)* | Monitors the Rio de Janeiro Official Gazette daily and records only new publications per contract (acts and additive terms). | Python · Selenium · CSV |
+| [**imigra**](https://github.com/AndrewMBarros/imigra) | Desktop RPA that migrates cloud PBX from 3CX to Yeastar, with an ETL pipeline. | Python · Selenium · pandas · customtkinter |
+| [**ADayInTheLife**](https://github.com/AndrewMBarros/ADayInTheLife) | Daily scraping bot that sends Beatles historical facts to Telegram via GitHub Actions. | Python · GitHub Actions |
+| [**API de Produtos**](https://github.com/AndrewMBarros/API-PRODUTOS) | REST API with full CRUD for products and Swagger documentation. | C# · ASP.NET Core · Swagger |
+| [**Invoice PDF Automation**](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation) | Robot that extracts invoice data from PDFs (OCR) to Excel. | UiPath · OCR |
 
-- **Desenvolvedor Backend** · Inovacomm · `mai/2026 – atual`  
-  APIs em Python/FastAPI e C#/ASP.NET Core, automação RPA/ETL e integrações (Yeastar, CRM, Microsoft Graph).
-- **Estagiário de TI** · CEDAE · `abr/2022 – nov/2023`  
-  Automação da coleta diária de preços (Power Automate), web scraper do SEI (Requests, BeautifulSoup) e monitor do Diário Oficial (Selenium), com dados em Oracle e dashboards Qlik Sense.
-- **Iniciação Científica em IA** · IME/UERJ · `fev/2022 – jul/2024`  
-  Análise de dados de engajamento do Instagram para divulgação científica de IA.
+---
 
-### 🏅 Conquistas e certificações
+## 💼 Experience
 
-- 🥈 **Prata**, Competição Elon Lages Lima (OBM, 2025): melhor pontuação do RJ, 21/25
-- 🥉 **Bronze** (2024) e **Menção Honrosa** (2023), Maratonas de Matemática do IME/UERJ
-- 📄 Publicações no CNMAC/SBMAC: [2023](https://proceedings.sbmac.org.br/sbmac/article/view/4348/4409) · [2022](https://proceedings.sbmac.org.br/sbmac/article/view/4012/4063)
-- ✅ [Yeastar Security Specialist](https://github.com/AndrewMBarros/AndrewMBarros/blob/main/YSCSS%20-%20Yeastar%20Certified%20Security%20Specialist.png) · [Yeastar Integration Specialist](https://github.com/AndrewMBarros/AndrewMBarros/blob/main/YSCIS%20-%20Yeastar%20Certified%20Integration%20Specialist.png) 
-- 🎓 Curso: [UiPath Academy — Automation Developer Associate Training](https://credentials.uipath.com/d9322f5f-dc93-44f3-a86f-759902dd1e3d#acc.AOLvPcSE)
+**Backend Developer · Inovacomm · May 2026 – present**
+Python/FastAPI and C#/ASP.NET Core APIs, RPA/ETL automation, and integrations (Yeastar, CRM, Microsoft Graph).
+
+**IT Intern · CEDAE · Apr 2022 – Nov 2023**
+Automated daily price collection (Power Automate), built a web scraper for the SEI system (Requests, BeautifulSoup) and an Official Gazette monitor (Selenium), with data in Oracle and Qlik Sense dashboards.
+
+**AI Research (IC) · IME/UERJ · Feb 2022 – Jul 2024**
+Data analysis of Instagram engagement metrics for AI science communication.
+
+---
+
+## 🏅 Achievements & certifications
+
+- 🥈 Silver, Elon Lages Lima Competition (OBM, 2025) — highest score in Rio de Janeiro state, 21/25
+- 🥉 Bronze (2024) and Honorable Mention (2023), IME/UERJ Mathematics Marathons
+- 📄 Publications at CNMAC/SBMAC: [2023](https://github.com/AndrewMBarros/AndrewMBarros/blob/main/MM-Bronze.pdf) · 2022
+- ✅ Yeastar Certified Security Specialist · Yeastar Certified Integration Specialist
+- 🎓 UiPath Academy — Automation Developer Associate Training
