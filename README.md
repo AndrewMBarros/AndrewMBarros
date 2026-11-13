@@ -37,12 +37,11 @@ Backend developer focused on Python. I like turning manual, repetitive work into
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**NOVA**](https://github.com/AndrewMBarros/nova) | Automatic support-inbox triage: identifies the client (e-mail, CNPJ/CPF or company name), requests the document when missing, and assembles the ticket for the ERP. | Python · FastAPI · SQLAlchemy · pytest · Docker · GitHub Actions |
-| [**Radar DO**](https://github.com/AndrewMBarros/radar-do) *(coming soon)* | Monitors the Rio de Janeiro Official Gazette daily and records only new publications per contract (acts and additive terms). | Python · Selenium · CSV |
-| [**imigra**](https://github.com/AndrewMBarros/imigra) | Desktop RPA that migrates cloud PBX from 3CX to Yeastar, with an ETL pipeline. | Python · Selenium · pandas · customtkinter |
-| [**ADayInTheLife**](https://github.com/AndrewMBarros/ADayInTheLife) | Daily scraping bot that sends Beatles historical facts to Telegram via GitHub Actions. | Python · GitHub Actions |
-| [**API de Produtos**](https://github.com/AndrewMBarros/API-PRODUTOS) | REST API with full CRUD for products and Swagger documentation. | C# · ASP.NET Core · Swagger |
-| [**Invoice PDF Automation**](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation) | Robot that extracts invoice data from PDFs (OCR) to Excel. | UiPath · OCR |
+| [**NOVA**](https://github.com/AndrewMBarros/nova) | Support-inbox triage: identifies the client by e-mail, CNPJ/CPF or company name, asks for the document when it is missing and builds the ticket for the ERP. Gmail and Microsoft 365 support. | Python · FastAPI · SQLAlchemy · PostgreSQL · pytest · Docker · GitHub Actions |
+| [**imigra**](https://github.com/AndrewMBarros/imigra) | Desktop RPA that migrated **350+ clients** from 3CX to Yeastar cloud PBX: extracts extensions, trunks and routes, converts them with an ETL pipeline and registers everything in the new panel. | Python · Selenium · pandas · CustomTkinter |
+| [**Beatles Bot**](https://github.com/AndrewMBarros/beatles-bot) | Real-time news monitor for 46 sources (RSS/Atom and Bluesky API) with duplicate detection, retry on transient errors and source-health alerts, delivered to Telegram. | Python · feedparser · unittest · GitHub Actions · Railway |
+| [**API de Produtos**](https://github.com/AndrewMBarros/API-PRODUTOS) | REST API for product management with full CRUD, business-rule validation and Swagger docs. | C# · ASP.NET Core · Swagger |
+| [**Invoice PDF Automation**](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation) | Robot that reads invoice PDFs with Document Understanding and exports number, customer, due date and amount to Excel. | UiPath · Document Understanding · OCR |
 
 ---
 
@@ -52,7 +51,7 @@ Backend developer focused on Python. I like turning manual, repetitive work into
 Python/FastAPI and C#/ASP.NET Core APIs, RPA/ETL automation, and integrations (Yeastar, CRM, Microsoft Graph).
 
 **IT Intern · CEDAE · Apr 2022 – Nov 2023**
-Automated daily price collection (Power Automate), built a web scraper for the SEI system (Requests, BeautifulSoup) and an Official Gazette monitor (Selenium), with data in Oracle and Qlik Sense dashboards.
+Automated daily price collection (Power Automate), built a web scraper for the SEI system (Requests, BeautifulSoup) and a Rio de Janeiro Official Gazette monitor (Selenium) that tracked new publications for each company contract, with data in Oracle and Qlik Sense dashboards.
 
 **AI Research (IC) · IME/UERJ · Feb 2022 – Jul 2024**
 Data analysis of Instagram engagement metrics for AI science communication.
