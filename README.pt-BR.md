@@ -58,8 +58,8 @@ Análise de dados de engajamento do Instagram para divulgação científica de I
 
 ## 🏅 Conquistas e certificações
 
-- 🥈 Prata, Competição Elon Lages Lima (OBM, 2025): melhor pontuação do RJ, 21/25 · [certificado](assets/obm-2025-silver.jpg)
+- 🥈 [Prata](assets/obm-2025-silver.jpg), Competição Elon Lages Lima (OBM, 2025): melhor pontuação do RJ, 21/25
 - 🥉 [Bronze](assets/mm-2024-bronze.pdf) (2024) e [Menção Honrosa](assets/mm-2023-honorable-mention.jpg) (2023), Maratonas de Matemática do IME/UERJ
-- 📄 Publicações no CNMAC/SBMAC: 2023 · 2022
+- 📄 Publicações no CNMAC/SBMAC: [2023](https://proceedings.sbmac.org.br/sbmac/article/view/4348/4409) · [2022](https://proceedings.sbmac.org.br/sbmac/article/view/4012/4063)
 - ✅ [Yeastar Security Specialist](assets/yeastar-security-specialist.png) · [Yeastar Integration Specialist](assets/yeastar-integration-specialist.png)
-- 🎓 UiPath Academy — Automation Developer Associate Training
+- 🎓 [UiPath Academy — Automation Developer Associate Training](https://credentials.uipath.com/d9322f5f-dc93-44f3-a86f-759902dd1e3d)

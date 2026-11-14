@@ -58,8 +58,8 @@ Data analysis of Instagram engagement metrics for AI science communication.
 
 ## 🏅 Achievements & certifications
 
-- 🥈 Silver, Elon Lages Lima Competition (OBM, 2025) — highest score in Rio de Janeiro state, 21/25 · [certificate](assets/obm-2025-silver.jpg)
+- 🥈 [Silver](assets/obm-2025-silver.jpg), Elon Lages Lima Competition (OBM, 2025) — highest score in Rio de Janeiro state, 21/25
 - 🥉 [Bronze](assets/mm-2024-bronze.pdf) (2024) and [Honorable Mention](assets/mm-2023-honorable-mention.jpg) (2023), IME/UERJ Mathematics Marathons
-- 📄 Publications at CNMAC/SBMAC: 2023 · 2022
+- 📄 Publications at CNMAC/SBMAC: [2023](https://proceedings.sbmac.org.br/sbmac/article/view/4348/4409) · [2022](https://proceedings.sbmac.org.br/sbmac/article/view/4012/4063)
 - ✅ [Yeastar Certified Security Specialist](assets/yeastar-security-specialist.png) · [Yeastar Certified Integration Specialist](assets/yeastar-integration-specialist.png)
-- 🎓 UiPath Academy — Automation Developer Associate Training
+- 🎓 [UiPath Academy — Automation Developer Associate Training](https://credentials.uipath.com/d9322f5f-dc93-44f3-a86f-759902dd1e3d)
