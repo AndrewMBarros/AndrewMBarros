@@ -40,8 +40,6 @@ Desenvolvedor Backend com foco em Python. Gosto de transformar tarefas manuais e
 | [**NOVA**](https://github.com/AndrewMBarros/nova) | Triagem da caixa de suporte: identifica o cliente por e-mail, CNPJ/CPF ou nome da empresa, pede o documento quando falta e monta o chamado para o ERP. Funciona com Gmail e Microsoft 365. | Python · FastAPI · SQLAlchemy · PostgreSQL · pytest · Docker · GitHub Actions |
 | [**imigra**](https://github.com/AndrewMBarros/imigra) | RPA desktop que migra clientes de PABX em nuvem do 3CX para o Yeastar: extrai ramais, troncos e rotas, converte com um pipeline ETL e cadastra tudo no painel novo. | Python · Selenium · pandas · CustomTkinter |
 | [**Beatles Bot**](https://github.com/AndrewMBarros/beatles-bot) | Monitor de notícias em tempo real com 46 fontes (RSS/Atom e API do Bluesky), anti-duplicação, nova tentativa em erros passageiros e alerta de fonte fora do ar, com envio ao Telegram. | Python · feedparser · unittest · GitHub Actions · Railway |
-| [**API de Produtos**](https://github.com/AndrewMBarros/API-PRODUTOS) | API REST de produtos com CRUD completo, validação de regras de negócio e documentação Swagger. | C# · ASP.NET Core · Swagger |
-| [**Invoice PDF Automation**](https://github.com/AndrewMBarros/uipath-invoice-pdf-automation) | Robô que lê faturas em PDF com Document Understanding e exporta número, cliente, vencimento e valor para o Excel. | UiPath · Document Understanding · OCR |
 
 ---
 
@@ -60,8 +58,8 @@ Análise de dados de engajamento do Instagram para divulgação científica de I
 
 ## 🏅 Conquistas e certificações
 
-- 🥈 Prata, Competição Elon Lages Lima (OBM, 2025): melhor pontuação do RJ, 21/25
-- 🥉 Bronze (2024) e Menção Honrosa (2023), Maratonas de Matemática do IME/UERJ
-- 📄 Publicações no CNMAC/SBMAC: [2023](https://github.com/AndrewMBarros/AndrewMBarros/blob/main/MM-Bronze.pdf) · 2022
-- ✅ Yeastar Security Specialist · Yeastar Integration Specialist
+- 🥈 Prata, Competição Elon Lages Lima (OBM, 2025): melhor pontuação do RJ, 21/25 · [certificado](assets/obm-2025-silver.jpg)
+- 🥉 [Bronze](assets/mm-2024-bronze.pdf) (2024) e [Menção Honrosa](assets/mm-2023-honorable-mention.jpg) (2023), Maratonas de Matemática do IME/UERJ
+- 📄 Publicações no CNMAC/SBMAC: 2023 · 2022
+- ✅ [Yeastar Security Specialist](assets/yeastar-security-specialist.png) · [Yeastar Integration Specialist](assets/yeastar-integration-specialist.png)
 - 🎓 UiPath Academy — Automation Developer Associate Training
