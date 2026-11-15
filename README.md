@@ -12,7 +12,7 @@
 
 ## 👋 About me
 
-Backend developer focused on Python. I like turning manual, repetitive work into software: REST APIs with FastAPI, process automation (RPA/ETL), web scraping, and system integration — all backed by SQL databases. I also work with C#/ASP.NET Core (REST APIs and Worker Services). Currently pursuing a Computer Science degree at UERJ (Rio de Janeiro, Brazil). Open to remote opportunities.
+Backend developer focused on Python. I like turning manual, repetitive work into software: REST APIs with FastAPI, process automation (RPA/ETL), web scraping, and system integration — all backed by SQL databases. I also work with C#/ASP.NET Core (REST APIs and Worker Services). Currently pursuing a Computer Science degree at UERJ (Rio de Janeiro, Brazil).
 
 ---
 
