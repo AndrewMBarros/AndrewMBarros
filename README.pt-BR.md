@@ -12,7 +12,7 @@
 
 ## 👋 Sobre mim
 
-Desenvolvedor Backend com foco em Python. Gosto de transformar tarefas manuais e repetitivas em software: APIs com FastAPI, automação de processos (RPA/ETL), web scraping e integração de sistemas, com bancos de dados SQL. Também trabalho com C#/ASP.NET Core (REST APIs e Worker Services). Cursando Ciência da Computação na UERJ. Aberto a oportunidades remotas.
+Desenvolvedor Backend com foco em Python. Gosto de transformar tarefas manuais e repetitivas em software: APIs com FastAPI, automação de processos (RPA/ETL), web scraping e integração de sistemas, com bancos de dados SQL. Também trabalho com C#/ASP.NET Core (REST APIs e Worker Services). Cursando Ciência da Computação na UERJ.
 
 ---
 
